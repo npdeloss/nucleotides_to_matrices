@@ -11,7 +11,6 @@ install:
     - pip install -U tox-travis
     - pip install -U importlib-metadata
     - pip install -r requirements_dev.txt
-    - pip install -r requirements.txt
 
 # Command to run tests, e.g. python setup.py test
 script: tox

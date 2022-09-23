@@ -30,7 +30,8 @@ Utility functions for conversion between IUPAC nucleotide codes and one-hot-like
 Features
 --------
 
-* TODO
+* Conversion between strings of single-character IUPAC nucleotides and one-hot-like encodings
+* Includes degenerate, gap, and RNA codes
 
 Credits
 -------

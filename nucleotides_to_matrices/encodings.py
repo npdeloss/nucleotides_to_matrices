@@ -31,7 +31,7 @@ _nucleotide_to_vector = (
 )
 
 
-def nucleotide_to_vector(nucleotide):
+def nucleotide_to_vector():
     """Nucleotide code to vector encoding lookup
     """
     return _nucleotide_to_vector
